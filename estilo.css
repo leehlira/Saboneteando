@@ -1,0 +1,37 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Vegan';
+    src: url('VeganStylePersonalUse-5Y58.ttf');
+    
+}
+body{
+    background-image: url('wallpaper2.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header#cabecalho{
+    position: relative;
+    margin-top: 15%;
+
+}
+header#cabecalho h1{
+    font-family: 'Vegan';
+    font-size: 45pt;
+    font-weight: normal;
+    color: rgb(178, 236, 196);
+    letter-spacing: 10px;
+    margin-left: 1%;
+    
+}
+header#cabecalho h2{
+    font-family: 'Bradley Hand ITC';
+    font-size: 18pt;
+    color: rgb(255, 255, 255);
+    letter-spacing: 10px;
+    margin-top: -4%;
+    margin-left: 8%;
+   
+}
+

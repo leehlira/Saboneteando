@@ -1,0 +1,216 @@
+@charset "UTF-8";
+@font-face{
+    font-family: 'Montserrat', sans-serif;
+        src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+} 
+body{
+    background-image: url('wallpaper-produtos2.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+header{
+    position: absolute;
+    display: inline;
+    font-family: 'Vegan';
+    font-size: 30pt;
+    margin-top: 18%;
+    margin-left: -5%;
+    letter-spacing: 10px;
+    background-color: rgba(243, 228, 180, 0.87);
+    padding-right: 22%;
+    padding-left: 35%;
+    
+}
+.produtos{
+    position: absolute;
+    display: block;
+    background-color: rgba(243, 228, 180, 0.87);
+    width: 90%;
+    margin-left: 4%;
+    margin-top: 40%;
+}
+
+/*Imagem lavanda*/
+.lavand{
+    position: relative;
+    width: 25%;
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+/*Corpo Lavanda*/
+.lavanda h1{
+    position: relative;
+    float: right;
+    margin-right: 25%;
+    font-size: 18pt;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(104, 67, 134);
+}
+.lavanda p{
+    position: relative;
+    float: right;
+    text-align: justify;
+    font-size: 14pt;
+    font-family: arial;
+    width: 65%;
+    margin-top: -25%;
+    margin-right: 5%;
+}
+.lavanda h2{
+    position: relative;
+    float: right;
+    margin-right: 41.2%;
+    margin-top: -15%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15pt;
+    color: rgb(104, 67, 134);
+}
+.lavanda ol{
+    position: relative;
+    display: block;
+    float: right;
+    margin-top: -12.5%;
+    margin-right: 12%;
+    font-size: 13pt;
+    font-family: Arial, sans-serif;
+}
+/*Imagem sabonete de limão*/
+.limão{
+    position: relative;
+    width: 23%;
+    float: right;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+/*Corpo Limão*/
+.limao h3{
+    position: relative;
+    float: left;
+    margin-left: 25%;
+    margin-top: 1%;
+    font-size: 18pt;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(52, 119, 39);
+}
+.limao p{
+    position: relative;
+    float: left;
+    text-align: justify;
+    font-size: 14pt;
+    font-family: arial;
+    width: 65%;
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.limao h4{
+    position: relative;
+    float: left;
+    margin-left: 5%;
+    margin-top: -1%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14pt;
+    color: rgb(41, 107, 28);
+}
+.limao ol{
+    position: relative;
+    display: inline;
+    float: left;
+    margin-top: 1.5%;
+    margin-left: -15%;
+    font-size: 13pt;
+    font-family: Arial, sans-serif;
+}
+
+
+/*Imagem Rosa*/
+.rosa{
+    position: relative;
+    width: 25%;
+    float: left;
+    margin-top: 20%;
+    margin-left: -29%;
+    padding-left: 3%;
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+/*Corpo Rosas*/
+.rosas h5{
+    position: relative;
+    float: right;
+    margin-left: 45%;
+    margin-top: 7%;
+    font-size: 18pt;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(168, 40, 115);
+}
+.rosas p{
+    position: relative;
+    float: right;
+    text-align: justify;
+    font-size: 14pt;
+    font-family: arial;
+    width: 65%;
+    margin-top: -2%;
+    margin-right: 3%;
+}
+.rosas ol{
+    position: relative;
+    display: block;
+    float: left;
+    margin-top: -1%;
+    margin-left: 30%;
+    font-size: 13pt;
+    font-family: Arial, sans-serif;
+}
+.rosas ul{
+    position: relative;
+    display: block;
+    float: right;
+    margin-top: -10%;
+    margin-right: 10%;
+    font-size: 13pt;
+    font-family: Arial, sans-serif;
+}
+
+
+/*Imagem Universo*/
+.universo{
+    position: relative;
+    width: 25%;
+    float: right;
+    padding-right: 3%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    margin-left: 45%;
+}
+.univers h6{
+    position: relative;
+    float: left;
+    margin-left: 30%;
+    margin-top: -29%;
+    font-size: 18pt;
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(33, 11, 112);
+}
+.univers p{
+    position: relative;
+    float: left;
+    text-align: justify;
+    font-size: 14pt;
+    font-family: arial;
+    width: 65%;
+    margin-top: -25%;
+    margin-left: 3%;
+}
+.univers ol{
+    position: relative;
+    display: block;
+    float: left;
+    margin-top: -15%;
+    margin-left: 3%;
+    font-size: 13pt;
+    font-family: Arial, sans-serif;
+}
